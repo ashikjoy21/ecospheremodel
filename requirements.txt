@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+Pillow
+numpy
+inference-sdk
+pafy
+python-dotenv 
